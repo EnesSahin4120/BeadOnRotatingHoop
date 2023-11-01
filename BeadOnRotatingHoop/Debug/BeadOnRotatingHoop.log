@@ -1,0 +1,12 @@
+﻿  Shader.cpp
+c:\users\msi-nb\documents\visual studio 2015\projects\beadonrotatinghoop\beadonrotatinghoop\shader.cpp(188): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\msi-nb\documents\visual studio 2015\projects\beadonrotatinghoop\beadonrotatinghoop\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\msi-nb\documents\visual studio 2015\projects\beadonrotatinghoop\beadonrotatinghoop\main.cpp(25): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\msi-nb\documents\visual studio 2015\projects\beadonrotatinghoop\beadonrotatinghoop\main.cpp(234): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Skybox.cpp
+  Generating Code...
+  BeadOnRotatingHoop.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\BeadOnRotatingHoop\Debug\BeadOnRotatingHoop.exe
+  BeadOnRotatingHoop.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\BeadOnRotatingHoop\Debug\BeadOnRotatingHoop.pdb (Full PDB)
