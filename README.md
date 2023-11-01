@@ -1,7 +1,7 @@
 # BeadOnRotatingHoop
 Bead On A Rotating Hoop with OpenGL(C++)
 
-Drawing Hoop Mesh, Drawing Sphere Mesh, Bead Movement with Lagrange Equations, Skybox, Directional Light.
+Lagrange Equation Notes, Drawing Hoop Mesh, Drawing Sphere Mesh, Bead Movement, Skybox, Directional Light.
 
 ![1](https://github.com/EnesSahin4120/BeadOnRotatingHoop/assets/65425355/081e53f0-46d0-48b1-a1a5-0b3557a3e3a9)
 
